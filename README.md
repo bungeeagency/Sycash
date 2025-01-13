@@ -1,2 +1,2 @@
 # Sycash
-Digital money for Discord
+A digital money system for Discord servers
